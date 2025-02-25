@@ -9,21 +9,6 @@
 
 This project investigates how the traditional Elo rating system can be adapted to rank securities in financial markets. By redefining monthly return comparisons as "games" between securities and reinterpreting the Elo update mechanism within a logistic regression framework, this work aims to provide a dynamic, risk-adjusted methodology for asset ranking and portfolio construction.
 
----
-
-## Table of Contents
-
-- [Assumptions](#assumptions)
-- [The Basic Elo Rating System](#the-basic-elo-rating-system)
-- [Connection to Logistic Regression](#connection-to-logistic-regression)
-- [Extensions for Financial Markets](#extensions-for-financial-markets)
-- [Conclusion and Future Work](#conclusion-and-future-work)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Assumptions
 
 - **Pairwise Comparison:**  
